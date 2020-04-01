@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "This is the Background-Generator project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realcollin/background-generator.git"
+  },
+  "author": "Collin Morudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realcollin/background-generator/issues"
+  },
+  "homepage": "https://github.com/realcollin/background-generator#readme"
+}
